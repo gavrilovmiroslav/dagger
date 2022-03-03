@@ -39,3 +39,6 @@ tools/CoffeeCup/CoffeeCup.Scripts/obj
 #meson
 builddir/
 build/
+
+# Mac files
+.DS_Store
